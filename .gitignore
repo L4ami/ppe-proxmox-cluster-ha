@@ -1,0 +1,22 @@
+# Documents de travail personnels (non publiés)
+SUIVI.md
+NOTES-APP.md
+enonce.md
+*.bak
+
+# Secrets et clés : ne jamais publier
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+id_rsa*
+id_ed25519*
+*.kdbx
+
+# Fichiers système
+Thumbs.db
+desktop.ini
+.DS_Store
