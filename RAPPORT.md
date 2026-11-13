@@ -5,6 +5,8 @@ tags: GIT, E1B, Proxmox, virtualisation, cluster
 
 # PPE — Déploiement d'une solution Proxmox VE (semaine 2)
 
+![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-9.2-E57000?logo=proxmox&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-12_Bookworm-A81D33?logo=debian&logoColor=white) ![VMware Workstation](https://img.shields.io/badge/VMware_Workstation-Pro-607078?logo=vmware&logoColor=white) ![Cluster](https://img.shields.io/badge/cluster-2_n%C5%93uds_%2B_QDevice-1F6FEB) ![Stockage](https://img.shields.io/badge/stockage-NFS_partag%C3%A9-6E40C9) ![Statut](https://img.shields.io/badge/statut-termin%C3%A9-brightgreen)
+
 **Étudiant :** Paul Giocanti, classe E1B
 **Formateur :** Morrad
 **Période :** du 9 au 13 novembre 2026
