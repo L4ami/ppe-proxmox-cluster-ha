@@ -46,6 +46,7 @@ Les pannes rencontrées (kernel panic en émulation, carte réseau e1000 du NAS 
 - `RAPPORT.md` : le rapport complet (également publié sur HackMD)
 - `captures/` : les captures d'écran du rapport
 
-## 👤 Auteur
+---
 
-Paul Giocanti — [GitHub L4ami](https://github.com/L4ami)
+**Auteur :** Paul Giocanti ([@L4ami](https://github.com/L4ami)) · Novembre 2026<br>
+CFC d'informaticien + Bachelor (double certification) · Geneva Institute of Technology
