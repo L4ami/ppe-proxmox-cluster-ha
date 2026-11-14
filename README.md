@@ -9,7 +9,7 @@
 
 > **En une phrase :** sur mon PC portable, dans VMware Workstation, j'ai monté un **cluster Proxmox VE** de deux serveurs avec un **arbitre** (QDevice) et un **stockage partagé NFS**. J'y ai ensuite testé la migration à chaud, la haute disponibilité (en coupant un serveur), les snapshots, les clones et les droits d'accès.
 
-Ce dépôt est écrit pour être compris **même sans rien connaître** à Proxmox : tous les mots techniques sont expliqués.
+Ce dépôt est écrit pour être compris **même sans rien connaître** à Proxmox : tous les mots techniques sont expliqués.<br>
 👉 Le compte-rendu complet, étape par étape et avec toutes les captures, est dans [`RAPPORT.md`](RAPPORT.md).
 
 Projet réalisé pendant la semaine PPE du 9 au 13 novembre 2026, module **Virtualisation (CFC 190)**, Geneva Institute of Technology, classe E1B.
